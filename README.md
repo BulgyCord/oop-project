@@ -1,5 +1,5 @@
 # Chicken Invaders type game
-## Un joc in stilul "Chicken Invaders" în care jucătorul este o navă spațială ce trebuie sa elimine cu lasere proiectil toți inamici pentru a trece la următorul nivel
+## Un joc in stilul "Chicken Invaders" în care jucătorul este o navă spațială ce trebuie sa elimine cu lasere proiectil toți inamici pentru a trece la următorul nivel.
 
 ### Tema 0
 
